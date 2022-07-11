@@ -8,7 +8,7 @@ SageMaker Python SDK
 
 .. image:: https://img.shields.io/pypi/v/sagemaker.svg
    :target: https://pypi.python.org/pypi/sagemaker
-   :alt: Latest Version
+   :alt: Latest Version test
 
 .. image:: https://img.shields.io/pypi/pyversions/sagemaker.svg
    :target: https://pypi.python.org/pypi/sagemaker
